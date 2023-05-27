@@ -20,11 +20,11 @@ def stop_twitch_stream():
     print("Twitch stream stopped.")
 
 # Set your Twitch stream key and RTMP server
-twitch_stream_key = "live_61050123_HLlYAqSiIikVgNAGkHzB7kAoDEUIV1"
-rtmp_server = "lhr04.contribute.live-video.net"
+twitch_stream_key = "YourStreamKey"
+rtmp_server = "TwitchStreamServer"
 
 # Set the MP4 file to loop in the stream
-mp4_file = "/home/sorin/Skyline.mp4"
+mp4_file = "YourMP4File"
 
 # Check the command line arguments
 if len(sys.argv) > 1:
