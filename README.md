@@ -7,4 +7,6 @@ Script usage:
 
 python3 scriptname.py start
 
+###Added a modified version of the code which does not require encoding, just deliviers the mp4 files directly(while keeping the gop size and function implemented), with the original quality, resolution and bitrate.
+
 Will update with more info soon, still under intense development.
